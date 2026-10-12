@@ -4,7 +4,7 @@ This repository showcases the projects and assignments I completed during the Co
 
 ## Assignments
 
-### 1. Assignment 1: MIPS Assembly Programming
+### Assignment 1: MIPS Assembly Programming
 *Practical implementation of algorithms and machine learning concepts using low-level MIPS assembly.*
 
 *   **Key Tasks:** 
@@ -12,13 +12,13 @@ This repository showcases the projects and assignments I completed during the Co
     *   **Part B (Neuron Perceptron):** Simulated a single-neuron forward pass. Computed the dot product of a weight array and an input array, added a bias value, and applied a ReLU (Rectified Linear Unit) activation function to the accumulator sum.
 *   **Tech Stack:** MIPS Assembly, MARS MIPS Simulator.
 
-### 2. Assignment 2: Datapath & Pipelining
+### Assignment 2: Datapath & Pipelining
 *Processor performance analysis and instruction execution.*
 
 *   **Key Tasks:** Processor cycle evaluations, datapath analysis, and pipelining constraints.
 *   **Tech Stack:** MIPS Architecture Analysis, Document Reports.
 
-### 3. Assignment 3: Memory Hierarchy & Caches
+### Assignment 3: Memory Hierarchy & Caches
 *In-depth analysis of memory systems, cache architectures, and performance optimization.*
 
 *   **Key Tasks:** 
