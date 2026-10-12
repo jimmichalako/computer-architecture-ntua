@@ -1,6 +1,6 @@
 # NTUA ECE Computer Architecture Course
 
-This repository showcases the projects and assignments I completed during the Computer Architecture course. Through this coursework, I gained hands-on experience in MIPS assembly programming, evaluating processor performance, and analyzing memory hierarchies.
+This repository showcases the projects and assignments I completed during the Computer Architecture course. Through this coursework, I sharpened my skills in MIPS assembly programming, evaluating processor performance, and analyzing memory hierarchies.
 
 ## Assignments
 
